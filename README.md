@@ -1,2 +1,2 @@
-# Apeperia
- Projeto desenvolvido na plataforma Alura, visando o desenvolvimento de layouts mobile
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
