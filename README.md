@@ -1,2 +1,2 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
+Projeto desenvolvido na plataforma Alura para aprendizado em layouts responsivos 
